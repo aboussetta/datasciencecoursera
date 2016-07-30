@@ -1,2 +1,2 @@
 # datasciencecoursera
-Datasciences geek
+Data Science Specialization
